@@ -1,0 +1,9 @@
+com\clouding\ws\api\LoginController.class
+com\clouding\ws\mapping\Equipe.class
+com\clouding\ws\mapping\Action.class
+com\clouding\ws\WsApplication.class
+com\clouding\ws\mapping\Joueur.class
+com\clouding\ws\mapping\Match.class
+com\clouding\ws\repository\JoueurRepository.class
+com\clouding\ws\service\JoueurService.class
+com\clouding\ws\ServletInitializer.class
